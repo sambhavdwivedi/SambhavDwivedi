@@ -19,9 +19,9 @@ I am a **Data Analyst** passionate about transforming raw data into actionable i
 *   **[Executive Financial Dashboard](YOUR_REPO_LINK)**: Developed an interactive Power BI dashboard tracking monthly revenue metrics across 5 global regions, using DAX formulas to create dynamic projections.
 
 ### 📫 Connect with Me
-- 💼 **LinkedIn:** [Your Name](https://linkedin.com)
-- 📧 **Email:** youremail@example.com
-- 📝 **Portfolio:** [Optional Link to Personal Website]
+- 💼 **LinkedIn:** [sambhav dwivedi](https://linkedin.com/sambhavdwivedi)
+- 📧 **Email:**sambhavdwivedi48@gmail.com
+- 📝 **Portfolio:** (https://sambhavdwivedi.github.io/interective-resume/)
 
 *⚡ **Fun fact:** I love finding anomalies in data, but I hate when my grocery store changes its product layout!*
 
