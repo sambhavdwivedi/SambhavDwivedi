@@ -25,4 +25,4 @@ I am a **Data Analyst** passionate about transforming raw data into actionable i
 
 *⚡ **Fun fact:** I love finding anomalies in data, but I hate when my grocery store changes its product layout!*
 
-https://github-profile-trophy.vercel.app/sambhavdwivediryo-ma&theme=onedark
+
